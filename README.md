@@ -1,7 +1,7 @@
 # Bank Management System 🏦
 
 ## 🎥 Demo
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://youtu.be/xiXHn2T3s0Y)
 
 
 A **console-based banking application** built in **C++** that allows users to create accounts, log in securely, deposit/withdraw money, check balances, and view transaction history.  
